@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://minhokimmath.github.io/web/sitemap.xml
+Sitemap: https://minhokimmath.github.io/home/sitemap.xml
+Sitemap: https://minhokimmath.github.io/api_math/sitemap.xml
+Sitemap: https://minhokimmath.github.io/jamsilmath/sitemap.xml
+
